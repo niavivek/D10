@@ -1,0 +1,4 @@
+least = [1732, 1733, 1734]
+George Washington
+most = [1822, 1823, 1824, 1825, 1826, 1831, 1833, 1834, 1835, 1836, 1837, 1838, 1839, 1840, 1841, 1843, 1844, 1845]
+Rutherford B. Hayes, William Henry Harrison, William McKinley, Thomas Jefferson, James Buchanan, Grover Cleveland, John Tyler, Chester Arthur, James Monroe, Andrew Johnson, Millard Fillmore, James A. Garfield, Abraham Lincoln, Ulysses S. Grant, Zachary Taylor, Martin Van Buren, James K. Polk, James Madison, John Adams, John Quincy Adams, Andrew Jackson, Franklin Pierce, and Benjamin Harrison
